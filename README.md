@@ -1,5 +1,5 @@
-Codsoft Internship - Task Completion
-Overview
+Codsoft Internship 
+
 This repository contains the projects and tasks completed as part of the Codsoft Internship. Each task showcases different skills and techniques in software development, artificial intelligence, and machine learning.
 
 
